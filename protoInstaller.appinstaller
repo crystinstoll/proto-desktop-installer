@@ -9,6 +9,6 @@
 		Uri="https://crystinstoll.github.io/proto-desktop-installer/protoInstaller_1.0.6.0_Test/protoInstaller_1.0.6.0_x64.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
-			HoursBetweenUpdateChecks="720" />
+			HoursBetweenUpdateChecks="255" />
 	</UpdateSettings>
 </AppInstaller>
