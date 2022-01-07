@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://github.com/crystinstoll/proto-desktop-installer/protoInstaller.appinstaller"
+	Version="1.0.5.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="e6111064-fae1-484e-9ce2-d3ba013df82a"
+		Version="1.0.5.0"
+		Publisher="CN=CStoll"
+		Uri="https://github.com/crystinstoll/proto-desktop-installer/protoInstaller_1.0.5.0_Test/protoInstaller_1.0.5.0_x64.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="720" />
+	</UpdateSettings>
+</AppInstaller>
